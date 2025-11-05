@@ -38,7 +38,6 @@ coverage/
 # Azure & deployment artifacts
 .azure/
 publish/
-package-lock.json
 !.github/
 
 # Optional: ignore next-auth session files if you later use a custom database adapter
